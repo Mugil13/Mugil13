@@ -58,11 +58,6 @@ I also love solving Math problems, and in my free time, I love watching football
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Mugil13&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Mugil13's Stats" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mugil13&theme=tokyonight&hide_border=false" alt="Mugil13's Streak" />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mugil13&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Mugil13's Top Languages" />
     </td>
