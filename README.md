@@ -2,7 +2,7 @@
 
 I am Mugil, a final year CSE undergrad from SSN College of Engineering. I love building and exploring Machine Learning and Deep Learning models to tackle real world problems. At the same time, I am also into full stack web applications, and I am currently equipping myself by learning modern frameworks. 
 
-I also love solving Math problems, and in my free time, I love watching football. I am always open to learn new things and develop my horizon and connections. 
+I also enjoy solving Math problems, and in my free time, I love watching football. I'm always open to learning new things, expanding my horizons, and connecting with like-minded individuals.
 
 ## MY TECH STACK
 
